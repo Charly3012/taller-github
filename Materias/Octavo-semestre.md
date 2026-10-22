@@ -4,3 +4,4 @@
 - Seminario de tesis 2
 - Mantenimiento de software
 - AWS Academy
+- Programación 
