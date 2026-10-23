@@ -4,3 +4,4 @@
 - Administración de proyecto 2 
 - Practicas Profesionales
 - Hora libre
+- otro
